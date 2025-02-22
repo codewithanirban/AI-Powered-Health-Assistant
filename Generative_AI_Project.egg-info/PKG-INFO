@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: Generative-AI-Project
+Version: 0.0.0
+Summary: A generative AI project using PyTorch and Hugging Face Transformers
+Author: Anirban Chakraborty
+Author-email: chakrabortyanirban832@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
