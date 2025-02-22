@@ -3,7 +3,7 @@
 # How to run ?
 
 '''bash
-Project repo: https://github.com/
+Project repo: https://github.com/codewithanirban/AI-Powered-Health-Assistant/
 '''
 
 ### Step 1: Create a conda environment after opening the repository
@@ -19,4 +19,6 @@ conda activate medichat
 '''bash
 pip install -r requirements.txt
 '''
+### Run the app
+python app.py
 
